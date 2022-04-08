@@ -49,7 +49,7 @@ const App = () => {
               // wall.send({ event: "GetDevTools", payload: "" });
             }}
           >
-            Get Newest DevTools In Console
+            Get Store In Console
           </button>
         </p>
         <p>
