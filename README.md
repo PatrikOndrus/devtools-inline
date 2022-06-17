@@ -4,6 +4,9 @@ pnpm dev
 
 https://github.com/facebook/react/tree/main/packages/react-devtools-inline
 
+CodeSandbox inline-devtools init:
+https://github.com/codesandbox/codesandbox-client/tree/master/packages/app/src/sandbox/eval/presets/create-react-app/utils
+
 Codesandbox demo:
 https://codesandbox.io/s/compassionate-mendel-fhjp9y?file=/src/App.tsx
 
